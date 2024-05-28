@@ -3,3 +3,5 @@ welcome to git
 bye bye git 
 shutting down
 ok lets restart
+now begin new server time again
+how is it 
